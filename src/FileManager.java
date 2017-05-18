@@ -172,4 +172,8 @@ public class FileManager {
         pw.close();
     }
 
+    public void gitTester() {
+        System.out.println("it works!");
+    }
+
 }
