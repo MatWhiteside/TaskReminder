@@ -173,7 +173,7 @@ public class FileManager {
     }
 
     public void gitTester() {
-        System.out.println("it works!");
+        System.out.println("it works");
     }
 
 }
