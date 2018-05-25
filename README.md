@@ -1,4 +1,6 @@
 # TaskReminder
-Windows task reminder written in Java.
+Windows task reminder written in Java (swing).
 
-Description: Add tasks to do, set a time & date, a windows notification will appear when the desired time is reached.
+Add tasks to do, set a time & date, a windows notification will appear when the desired time is reached.
+
+Written in the first year of university.
