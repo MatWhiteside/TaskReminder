@@ -1,12 +1,7 @@
-import com.sun.javafx.tk.*;
-import com.sun.javafx.tk.Toolkit;
-
 import java.awt.*;
-import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.util.Calendar;
 import java.util.Date;
-import java.util.Locale;
 
 /**
  * @author Matthew
@@ -26,10 +21,6 @@ public class TaskReminder {
     public static void main(String[] args) {
 
         GraphicsEnvironment ge = GraphicsEnvironment.getLocalGraphicsEnvironment();
-
-        for (Font f : ge.getAllFonts()) {
-            System.out.println(f.getFontName());
-        }
 
         // Creates new file manager
         try {
